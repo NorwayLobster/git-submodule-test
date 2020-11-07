@@ -1,0 +1,3 @@
+[submodule "3pp/cplusplus"]
+	path = 3pp/cplusplus
+	url = git@github.com:NorwayLobster/cplusplus.git
