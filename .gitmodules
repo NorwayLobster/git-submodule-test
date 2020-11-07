@@ -1,3 +1,6 @@
 [submodule "3pp/cplusplus"]
 	path = 3pp/cplusplus
 	url = git@github.com:NorwayLobster/cplusplus.git
+[submodule "3pp/submodule1-test"]
+	path = 3pp/submodule1-test
+	url = git@github.com:NorwayLobster/repo-for-test.git
